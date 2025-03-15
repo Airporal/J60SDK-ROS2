@@ -1,0 +1,4 @@
+source;share/j60controller/local_setup.bash
+source;share/j60controller/local_setup.dsv
+source;share/j60controller/local_setup.sh
+source;share/j60controller/local_setup.zsh

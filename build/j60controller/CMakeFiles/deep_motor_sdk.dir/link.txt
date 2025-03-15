@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdeep_motor_sdk.a CMakeFiles/deep_motor_sdk.dir/src/deep_motor_sdk.cpp.o
+/usr/bin/ranlib libdeep_motor_sdk.a

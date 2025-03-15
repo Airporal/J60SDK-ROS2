@@ -1,0 +1,8 @@
+source;share/j60controller/hook/cmake_prefix_path.ps1
+source;share/j60controller/hook/cmake_prefix_path.dsv
+source;share/j60controller/hook/cmake_prefix_path.sh
+source;share/j60controller/local_setup.bash
+source;share/j60controller/local_setup.dsv
+source;share/j60controller/local_setup.ps1
+source;share/j60controller/local_setup.sh
+source;share/j60controller/local_setup.zsh

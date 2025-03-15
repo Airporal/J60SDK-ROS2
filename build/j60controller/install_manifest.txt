@@ -1,0 +1,17 @@
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/lib/j60controller/j60master
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/lib/j60controller/j60reader
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/ament_index/resource_index/package_run_dependencies/j60controller
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/ament_index/resource_index/parent_prefix_path/j60controller
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/environment/ament_prefix_path.sh
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/environment/ament_prefix_path.dsv
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/environment/path.sh
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/environment/path.dsv
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/local_setup.bash
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/local_setup.sh
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/local_setup.zsh
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/local_setup.dsv
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/package.dsv
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/ament_index/resource_index/packages/j60controller
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/cmake/j60controllerConfig.cmake
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/cmake/j60controllerConfig-version.cmake
+/home/airporal/Documents/files/J60/ros_ws/install/j60controller/share/j60controller/package.xml

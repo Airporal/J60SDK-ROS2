@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b1bfcf97b6f1e2046726.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "j60interfaces__py",
+					"jsonFile" : "directory-j60interfaces__py-aa19e8023efdc5a392ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/airporal/Documents/files/J60/ros_ws/build/j60interfaces/j60interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "j60interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_j60interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_j60interfaces_egg-ca0f4ba05f31419ee6c9.json",
+					"name" : "ament_cmake_python_build_j60interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_j60interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_j60interfaces-9bf28e6cddf900a71f3c.json",
+					"name" : "ament_cmake_python_copy_j60interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces-957836362f415b1c1eb7.json",
+					"name" : "j60interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__cpp-1f8451eb37e3da6d2c14.json",
+					"name" : "j60interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "j60interfaces__py::@889c74a377e1e6ad2f9e",
+					"jsonFile" : "target-j60interfaces__py-a0455008e5d7b13e3b65.json",
+					"name" : "j60interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_generator_c-583cfd3fd5df7544a0f8.json",
+					"name" : "j60interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_generator_py-2894a80f57fd0605bc85.json",
+					"name" : "j60interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_c-a29a4ad407fb895e006e.json",
+					"name" : "j60interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_c__pyext-7599226ec569c98db89b.json",
+					"name" : "j60interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_cpp-3646d248b1ec1b1f4c6b.json",
+					"name" : "j60interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_fastrtps_c-7efcc81775bbec1fd8c6.json",
+					"name" : "j60interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_fastrtps_c__pyext-06ad9b5325b9eff10f1d.json",
+					"name" : "j60interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_fastrtps_cpp-3a853a035eb67da14ab1.json",
+					"name" : "j60interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_introspection_c-f54900c3cb9c84e7514c.json",
+					"name" : "j60interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_introspection_c__pyext-cfb7a0ba680a602116c6.json",
+					"name" : "j60interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces__rosidl_typesupport_introspection_cpp-a4ef74ffb5e05aae9136.json",
+					"name" : "j60interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60interfaces_uninstall-4e82ce1587bf41b81d68.json",
+					"name" : "j60interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a2592cd3c7da73e0cac3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/airporal/Documents/files/J60/ros_ws/build/j60interfaces",
+		"source" : "/home/airporal/Documents/files/J60/ros_ws/src/j60interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

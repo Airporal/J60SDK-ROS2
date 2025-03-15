@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-646dd705b7e7e34f30a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "j60controller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "deep_motor_sdk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deep_motor_sdk-d2141f1acf816e5222ed.json",
+					"name" : "deep_motor_sdk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60controller_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60controller_uninstall-2805ba4dca625879cc2e.json",
+					"name" : "j60controller_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60master::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60master-2d640ec613c0c6edc152.json",
+					"name" : "j60master",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j60reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j60reader-edb50c88dcba3305b11b.json",
+					"name" : "j60reader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-cb6f4961769de9415c6d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/airporal/Documents/files/J60/ros_ws/build/j60controller",
+		"source" : "/home/airporal/Documents/files/J60/ros_ws/src/j60controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

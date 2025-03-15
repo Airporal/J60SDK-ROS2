@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "j60interfaces__py",
+		"source" : "/home/airporal/Documents/files/J60/ros_ws/build/j60interfaces/j60interfaces__py"
+	}
+}

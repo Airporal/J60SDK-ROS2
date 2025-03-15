@@ -1,0 +1,7 @@
+{
+  "package_name": "j60interfaces",
+  "non_idl_tuples": [
+    "/home/airporal/Documents/files/J60/ros_ws/src/j60interfaces:msg/StateJ60.msg",
+    "/home/airporal/Documents/files/J60/ros_ws/src/j60interfaces:msg/MoveJ60.msg"
+  ]
+}

@@ -1,0 +1,12 @@
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/uninstall.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/j60controller_uninstall.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/deep_motor_sdk.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/j60master.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/j60reader.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/test.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/edit_cache.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/rebuild_cache.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/list_install_components.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/install.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/install/local.dir
+/home/airporal/Documents/files/J60/ros_ws/build/j60controller/CMakeFiles/install/strip.dir

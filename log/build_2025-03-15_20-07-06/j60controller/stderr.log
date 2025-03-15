@@ -1,0 +1,36 @@
+In file included from [01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/src/deep_motor_sdk.cpp:1[m[K:
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:155:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  155 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:168:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  168 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:181:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  181 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/src/deep_motor_sdk.cpp:[m[K In function ‘[01m[Kint SendRecv(DrMotorCan*, const MotorCMD*, MotorDATA*, can_frame*)[m[K’:
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/src/deep_motor_sdk.cpp:291:87:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstate_frame[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  291 | int SendRecv(DrMotorCan *can, const MotorCMD *cmd, MotorDATA *data,[01;35m[Kstruct can_frame * state_frame[m[K){
+      |                                                                    [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~[m[K
+In file included from [01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/Mymaster.hpp:8[m[K,
+                 from [01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/src/Mymaster.cpp:1[m[K:
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:155:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  155 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:168:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  168 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:181:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  181 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+In file included from [01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/Mymaster.hpp:8[m[K,
+                 from [01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/src/j60master.cpp:1[m[K:
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:155:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  155 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:168:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  168 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
+[01m[K/home/airporal/Documents/files/J60/ros_ws/src/j60controller/include/j60controller/deep_motor_sdk.h:181:5:[m[K [01;35m[Kwarning: [m[KISO C++ prohibits anonymous structs [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wpedantic-Wpedantic]8;;[m[K]
+  181 |     [01;35m[K{[m[K
+      |     [01;35m[K^[m[K
